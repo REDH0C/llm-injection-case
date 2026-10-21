@@ -1,0 +1,8 @@
+{
+  "url": "http://localhost:11434",
+  "modelo": "dolphin3:latest",
+  "opciones": {
+    "temperature": 0,
+    "num_predict": 400
+  }
+}
