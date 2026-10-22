@@ -19,8 +19,8 @@ Uso (PowerShell):
     python pruebas.py --version v1 --modelo gpt-oss:20b
     python pruebas.py --resumen                   # solo el resumen, sin modelo
 
-# TODO: probar v2 con gpt-oss:20b y atacar el cortafuegos con paráfrasis del
-# marcador (está en «siguientes pasos» del README).
+# TODO: atacar el cortafuegos con paráfrasis del marcador (está en «siguientes
+# pasos» del README). La v2 con gpt-oss:20b ya está ejecutada (2026-10-22).
 """
 
 import argparse
